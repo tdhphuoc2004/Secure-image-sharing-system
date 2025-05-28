@@ -1,6 +1,6 @@
-# SecureShareServer
+# SecureShareSystem
 
-**SecureShareServer** is a web-based application designed for securely sharing sensitive images. It prioritizes confidentiality and integrity through encryption and hashing, making it an ideal solution for photographers, journalists, medical professionals, or anyone needing to share private content securely.
+**SecureShareSystem** is a web-based application designed for securely sharing sensitive images. It prioritizes confidentiality and integrity through encryption and hashing, making it an ideal solution for photographers, journalists, medical professionals, or anyone needing to share private content securely.
 
 ## Table of Contents
 
@@ -14,11 +14,10 @@
 
 ## Introduction
 
-SecureShareServer enables secure image sharing with the following goals:
+SecureShareSystem enables secure image sharing with the following goals:
 - **Security**: End-to-end encryption protects images during transmission and storage.
 - **Usability**: An intuitive interface ensures seamless use on desktop and mobile devices.
 - **Scalability**: The system supports multiple users and efficient image uploads.
-- **Solo Development**: Fully developed by a single contributor, managing both frontend and backend.
 
 ## Key Features
 
@@ -64,8 +63,8 @@ SecureShareServer enables secure image sharing with the following goals:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/SecureShareServer.git
-   cd SecureShareServer
+   git clone https://github.com/yourusername/SecureShareSystem.git
+   cd SecureShareSystem
    ```
 
 2. **Backend Setup**:
