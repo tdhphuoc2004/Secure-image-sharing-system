@@ -1,0 +1,1 @@
+D:\CyberSecurity\Rust learning\secure-image-sharing-system\Backend\target\debug\build\aws-lc-sys-8a635a6862722be2\out\build\aws-lc\crypto\fipsmodule\fipsmodule.dir\Debug\fipsmodule.lib

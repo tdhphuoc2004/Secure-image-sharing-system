@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\CyberSecurity\Rust learning\secure-image-sharing-system\Backend\target\debug\build\aws-lc-sys-8a635a6862722be2\out\build\CMakeFiles\2c61f6ee847b012e2477e40a32d78c6e\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2F543BF9-6189-3C4E-935E-2B6CD7E57A8D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
