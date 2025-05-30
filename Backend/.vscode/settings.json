@@ -1,0 +1,14 @@
+﻿{
+    "postgresql.connections": [
+        {
+            "label": "SecureShareSystem Database",
+            "host": "localhost",
+            "user": "server",
+            "password": "password123",
+            "port": "5432",
+            "database": "secure_share_db",
+            "ssl": false
+        }
+    ],
+    "postgresql.defaultConnection": "SecureShareSystem Database"
+}
